@@ -1,4 +1,4 @@
-![Student Management Logo](link_to_logo_image)
+## Student Management System
 
 ## Overview
 

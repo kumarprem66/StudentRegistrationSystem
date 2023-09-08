@@ -1,46 +1,31 @@
-# StudentRegistrationSystem
+![Student Management Logo](link_to_logo_image)
 
-## **The main user of the system:**
+## Overview
 
-- Administrator
-- Students
+The Student Management System is a Core Java application that stores data using serialization. It enables student and department registration, authentication, and various management tasks.
 
+## Features
 
+- Student and department registration.
+- Authentication for students and departments.
+- Departmental course management.
+- Student registration for courses.
 
-ADMINISTRATION  FUNTIONALITY
-1. Add new Courses
+## Technologies Used
 
-2.  Search for information about courses (by course name, duration range and fee range)
+- Core Java
+- Serialization
 
-3. Update details of course
+## Installation
 
-4. Create a Batch under a course.
+1. Clone the repository.
+2. Build and run the application.
 
-5. Search for information about batches (by batch name, by start date range, by end date range, by start and end date. By course name of the batch)
+## Usage
 
-6. Update details of batch
+- Students can register for courses and update their personal details.
+- Departments can create, update, delete courses and view student details.
 
-7. View student details
+## Contribution
 
-8. View the student list of a batch
-
-9. Consolidate the report batch-wise that contains the total students in every batch; also Consolidate the report course-wise that contains total batches and total students in every course.
-
-
-STUDENT  FUNTIONALITY
-
-1.  Students can sign-up. At the time of sign up first name, last name, address, mobile
-    number, email, and password should be taken.
-
-2.  Sign in with an email and password
-
-3.  Can update personal details
-
-4.  Can change the password. An old password has to be entered for changing the password
-
-5.  Can see all the available course list
-
-6.  Can see all batches course-wise along with available seats.
-
-7.  Register himself in a course and select any batch for himself from the list of
-    upcoming batches for this course
+This project was developed individually within a timeframe of 5 days. If you'd like to contribute, please follow the standard GitHub fork and pull request workflow.
